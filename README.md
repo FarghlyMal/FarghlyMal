@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FarghlyMal
 - 👀 I’m interested in Malware reverse Engineering
-- 🌱 I’m currently learning Kernel Level programming
 - 📫 How to reach me , u can reach me via twitter @FarghlyMal
 
 <!---
